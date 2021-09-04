@@ -2,6 +2,9 @@
 
 ## 🔍 Overview
 
+The two folders in this repository store the code created in the scope of my thesis (**"Creating a Knowledge Space for the SQL domain"**)
+
+Folder 
 **Shapash** is a Python library which aims to make machine learning interpretable and understandable by everyone.
 It provides several types of visualization that display explicit labels that everyone can understand. 
 
